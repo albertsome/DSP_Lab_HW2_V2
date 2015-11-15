@@ -138,3 +138,4 @@ Hybrid image functionality is based on a fact that human eyes tend to observe hi
 * Disscussion
 * We can see that the picture with lower resolution will result in a fewer numbers of corner detections.
 * And the one with shadows will also have fewer numbers of corner detections. I think this is due to the grey value of the shadow will be lower and thus un-easy to be larger than 'Threshold', therefore can't be detected by our code.
+* My execution time is approximately "Elapsed time is 2.508870 seconds." seconds.
